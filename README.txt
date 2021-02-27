@@ -6,7 +6,7 @@ This is my personal website. I started working on this during VTHacks 8 and it r
 Credits:
 
 	Images:
-		Unsplash (unsplash.com)
+		Google Image Search
 
 	Icons:
 		Font Awesome (fontawesome.io)
